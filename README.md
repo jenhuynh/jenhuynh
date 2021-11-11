@@ -1,4 +1,6 @@
-<img align='center' src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png/1200px-Hello_Web_Series_%28Wordmark%29_Logo.png" width="100%" height="5%">
+<!-- <img align='center' src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png/1200px-Hello_Web_Series_%28Wordmark%29_Logo.png" width="100%" height="5%"> -->
+
+<img align='center' src="https://www.learnenglish1-2-1.com/wp-content/uploads/2018/11/20-Ways-to-say-Hello-in-Other-Languages.jpeg" width="100%" height="5%">
 <hr>
 <b><h1 align='center'> I'm Jen!</h1></b>
 <img align='right' src="https://media.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif" width="230">
