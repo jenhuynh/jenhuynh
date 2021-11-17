@@ -18,11 +18,11 @@
 
 ```javascript
 const Jen = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, JavaScript],
+  pronouns: "she" | "her" | "hers",
+  code: [HTML, CSS, JavaScript],
   frameworks: [React, Node.js, Express.js, PostGresSQL, Jest, Docker],
   tools: [Chrome Developer Toools, VS Code, TDD (Jest and RTL), Terminal, Git, GithHub],
-  goal: "Bring more knowledge and diversity into the tech industry by coding, teaching, and mentoring"
+  goal: "Bring more knowledge and diversity into the tech industry by teaching and mentoring others"
 }
 ```
 ### Jen's Stats<hr>
