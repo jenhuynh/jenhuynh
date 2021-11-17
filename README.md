@@ -2,7 +2,7 @@
 
 <img align='center' src="https://www.learnenglish1-2-1.com/wp-content/uploads/2018/11/20-Ways-to-say-Hello-in-Other-Languages.jpeg" width="100%" height="5%">
 <hr>
-<b><h1 align='center'> I'm Jen!</h1></b>
+<b><h1 align='center'> I'm Jen! Former teacher, now Engineer!</h1></b>
 <img align='right' src="https://media.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif" width="230">
 <p><em>👩🏻‍💻 Software Engineer in Training at 
  <a href="https://twitter.com/TechtonicaOrg">@TechtonicaOrg</a>
@@ -14,7 +14,7 @@
 [![GitHub JenHuynh](https://img.shields.io/github/followers/jenhuynh?label=follow&style=social)](https://github.com/jenhuynh)
 
 
-### About me...  <hr>
+### About Jen  <hr>
 
 ```javascript
 const Jen = {
@@ -22,7 +22,8 @@ const Jen = {
   code: [HTML, CSS, JavaScript],
   frameworks: [React, Node.js, Express.js, PostGresSQL, Jest, Docker],
   tools: [Chrome Developer Toools, VS Code, TDD (Jest and RTL), Terminal, Git, GithHub],
-  goal: "Bring more knowledge and diversity into the tech industry by teaching and mentoring others"
+  goal: "Bring more knowledge and diversity into the tech industry by teaching and mentoring others",
+  mission: "#BridgeTheTechGap"
 }
 ```
 ### Jen's Stats<hr>
